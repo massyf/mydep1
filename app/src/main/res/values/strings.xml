@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewBook</string>
+    <string name="contents">فهرست</string>
+    <string name="bookmarks">علاقه مندی ها</string>
+</resources>
